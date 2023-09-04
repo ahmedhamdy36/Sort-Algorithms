@@ -1,0 +1,2 @@
+G:\courses\Algorithms\implementation (C++)\Divide and Conquer paradigm\Quick Sort\x64\Debug\Quick Sort.exe
+G:\courses\Algorithms\implementation (C++)\Sort Algorithms\Quick Sort\x64\Debug\Quick Sort.exe

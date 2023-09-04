@@ -1,0 +1,2 @@
+G:\courses\Algorithms\implementation (C++)\Divide and Conquer paradigm\Merge Sort\x64\Debug\Merge Sort.exe
+G:\courses\Algorithms\implementation (C++)\Sort Algorithms\Merge Sort\x64\Debug\Merge Sort.exe
