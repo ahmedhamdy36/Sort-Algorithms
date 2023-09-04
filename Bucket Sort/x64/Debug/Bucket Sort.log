@@ -1,0 +1,3 @@
+﻿  Source.cpp
+G:\courses\Algorithms\implementation (C++)\Sort Algorithms\Bucket Sort\Source.cpp(22,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bucket Sort.vcxproj -> G:\courses\Algorithms\implementation (C++)\Sort Algorithms\Bucket Sort\x64\Debug\Bucket Sort.exe
